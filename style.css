@@ -210,6 +210,11 @@ span{
     margin-bottom: 5rem;
 }
 
+.services p{
+    font-size: 1.6rem;
+    margin: 2rem 0 3rem;
+}
+
 .services-container{
     display: flex;
     justify-content: center;
@@ -232,7 +237,7 @@ span{
     transform: translateY(-1rem);
     box-shadow: 0 0 2rem var(--main-color);
     border-color: var(--main-color);
-    /* transform: scale(1.02); */
+    transform: scale(1.02);
 }
 
 .services-box{
